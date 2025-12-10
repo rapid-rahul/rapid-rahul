@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi there I'm Rahul Soni,A passionate Backend Engineer focused on:
+- Java & Spring Boot
+- Microservices
+- React
+- REST API
+- SQL & Databases  👋
+
+Currently preparing for:
+- DSA
+- System Design
+- Advanced Spring Boot
+
+### 🚀 Projects
+Here are some of my work highlights:
+- 🛒 Ecommerce Application (Spring Boot + React)
+- 🔁 Microservices Demo using Spring Cloud
+- 🔐 JWT authentication REST APIs
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulsoni98) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stardustrahulsoni@gmail.com) 
